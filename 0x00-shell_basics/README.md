@@ -9,5 +9,5 @@ mv /tmp/btty /tmp/my_first_directory/: moves the file betty to my first director
 rm /tmp/my_first_directory/betty: deletes the files betty
 rm -r /tmp/my_first_directory: deletes this directory and all its files
 cd -: Go to previous directory
-
+ls -la && cd .. && ls -la && cd /boot && ls -la: Write a script that lists all files (even ones with names beginning with a period character, which are normally hidden) in the current directory and the parent of the working directory and the /boot directory (in this order), in long format.
 
