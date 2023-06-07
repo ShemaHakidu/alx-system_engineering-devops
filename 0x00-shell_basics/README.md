@@ -7,4 +7,6 @@ ls -aln: See directory contents in long format, with numeric IDs for users and g
 mkdir /tmp/my_first_directory/: Creates a directory named my first directory in tmp
 mv /tmp/btty /tmp/my_first_directory/: moves the file betty to my first directory
 rm /tmp/my_first_directory/betty: deletes the files betty
+rm -r /tmp/my_first_directory: deletes this directory and all its files
+
 
