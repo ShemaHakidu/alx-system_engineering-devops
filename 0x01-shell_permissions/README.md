@@ -11,6 +11,7 @@ chmod 007 hello: Write a script that sets the permission to the file hello as fo
 Owner: no permission at all
 Group: no permission at all
 Other users: all the permissions
+chmod 751 hello
 
 
 
