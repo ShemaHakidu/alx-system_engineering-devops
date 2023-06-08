@@ -20,4 +20,5 @@ mkdir -m 751 my__dir: creates a directory called my_dir with permissions 751 in 
 chown :school hello: changes the group owner to school for the file hello
 chown -R vincent:staff .: Write a script that changes the owner to vincent and the group owner to staff for all the files and directories in the working directory.
 chown -h vincent:staff_hello:changes owner and group for symbolinc file _hello
+chown --from=guillaume betty hello: that changes the owner of the file hello to betty only if it is owned by the user guillaume
 
