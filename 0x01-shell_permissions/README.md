@@ -3,5 +3,6 @@ whoami: print effective username
 groups <username> Prints groups the user is in
 chown betty hello: changes ownership of file hello to betty
 touch hello: creates empty file hello
+chmod u+x hello: adds execute permission to the owner of the file hello
 
 
