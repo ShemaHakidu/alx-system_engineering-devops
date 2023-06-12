@@ -4,8 +4,8 @@ Task 2:Confused smily face: echo 'Ôo"
 Task 3:Heloo file : cat /etc/passwd
 Task 4:Two files: cat /etc/passwd /etc/hosts
 Task 5:Last lines: tail -n 10 /etc/passwd
-Task 6:
-Task 7:
+Task 6:fIRST Lines: head n 10 /etc/passwd
+Task 7:third line: head -n 3 iacta | tail -n 1
 Task 8:
 Task 9:
 Task 10:
