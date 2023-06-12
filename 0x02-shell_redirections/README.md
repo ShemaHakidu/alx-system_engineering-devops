@@ -32,7 +32,7 @@ Taks 18:grep -v "bin" /etc/passwd: Display all the lines in the file /etc/passwd
 Task 19:grep -i "^[a-z]" /etc/ssh/sshd_config or grep "^[A-Za-z]":Display all lines of the file /etc/ssh/sshd_config starting with a letter.
 Task 20: tr 'Ac' 'Ze' or tr "A" "Z" | tr "c" "e":Replace all characters A and c from input to Z and e respectively.
 Task 21:tr -d "cC": Create a script that removes all letters c and C from input.
-Task 22:
+Task 22:rev: Write a script that reverse its input.
 Task 23:
 Task 24:
 Task 25:
