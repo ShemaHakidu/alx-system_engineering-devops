@@ -1,6 +1,6 @@
 # 0x02-shell, I/O redirections and filters project
 Task 1: 0-hello_world: Prints Hello World
-Task 2:
+Task 2:Confused smily face: echo 'Ôo"
 Task 3:
 Task 4:
 Task 5:
