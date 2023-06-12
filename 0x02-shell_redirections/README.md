@@ -20,6 +20,11 @@ Requirements:
 
 One file per line
 Sorted from the newest to the oldest
-Task 14:
-Task 15:
+Task 14: sort | uniq -u: Create a script that takes a list of words as input and prints only words that appear exactly once.
 
+Input format: One line, one word
+Output format: One line, one word
+Words should be sorted
+Task 15:grep "root" /etc/passwd: Display lines containing the pattern “root” from the file /etc/passwd
+Task 16:
+Task 17:
