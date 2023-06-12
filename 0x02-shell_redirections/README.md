@@ -27,4 +27,5 @@ Output format: One line, one word
 Words should be sorted
 Task 15:grep "root" /etc/passwd: Display lines containing the pattern “root” from the file /etc/passwd
 Task 16:grep -c "bin" /etc/passwd: Display the number of lines that contain the pattern “bin” in the file /etc/passwd
-Task 17:
+Task 17: grep -A 3 "root" /etc/passwd: Display lines containing the pattern “root” and 3 lines after them in the file /etc/passwd.
+Taks 18:
