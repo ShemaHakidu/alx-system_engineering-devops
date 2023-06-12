@@ -14,7 +14,7 @@ Task 12: find .find . -type d -not -name "." | wc -l : Write a script that count
 
 The current and parent directories should not be taken into account
 Hidden directories should be counted
-Task 13: ls -lt | head -n 10: Create a script that displays the 10 newest files in the current directory.
+Task 13: ls -t1 | head -n 10: Create a script that displays the 10 newest files in the current directory.
 
 Requirements:
 
