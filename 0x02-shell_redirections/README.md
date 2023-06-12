@@ -6,8 +6,8 @@ Task 4:Two files: cat /etc/passwd /etc/hosts
 Task 5:Last lines: tail -n 10 /etc/passwd
 Task 6:fIRST Lines: head n 10 /etc/passwd
 Task 7:third line: head -n 3 iacta | tail -n 1
-Task 8:
-Task 9:
+Task 8:7-file:echo "Best School" > \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
+Task 9:8 ls -la > ls_cwd_content:Write a script that writes into the file ls_cwd_content the result of the command ls -la. If the file ls_cwd_content already exists, it should be overwritten. If the file ls_cwd_content does not exist, create it.
 Task 10:
 Task 11:
 Task 12:
