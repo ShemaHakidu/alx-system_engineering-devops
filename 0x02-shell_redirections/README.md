@@ -53,7 +53,10 @@ One file name per line
 The listing should end with a new line
 You are not allowed to use basename, grep, egrep, fgrep or rgrep
 
-Task 26:
+Task 26:cut -c 1 | paste -s -d ":Create a script that decodes acrostics that use the first letter of each line.
+
+The ‘decoded’ message has to end with a new line
+You are not allowed to use grep, egrep, fgrep or rgrep
 Task 27:
 Task 28:
 
