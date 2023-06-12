@@ -33,7 +33,9 @@ Task 19:grep -i "^[a-z]" /etc/ssh/sshd_config or grep "^[A-Za-z]":Display all li
 Task 20: tr 'Ac' 'Ze' or tr "A" "Z" | tr "c" "e":Replace all characters A and c from input to Z and e respectively.
 Task 21:tr -d "cC": Create a script that removes all letters c and C from input.
 Task 22:rev: Write a script that reverse its input.
-Task 23:
+Task 23:cut -d ":" -f1,6 /etc/passwd | sort: Write a script that displays all users and their home directories, sorted by users.
+
+Based on the the /etc/passwd file
 Task 24:
 Task 25:
 
