@@ -37,4 +37,6 @@ Task 14:printf '%x\n' $DECIMAL: Write a script that converts a number from base 
 
 The number in base 10 is stored in the environment variable DECIMAL
 The script should display the number in base 16, followed by a new line
-Task 15:
+Task 15:tr 'A-Za-z' 'N-ZA-Mn-za-m'
+Task 16:
+Tak 17:
