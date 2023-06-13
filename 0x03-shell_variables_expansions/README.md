@@ -5,5 +5,5 @@ Task 1: echo "Hello $USER": Create a script that prints hello user, where user i
 Task 2: export PATH=$PATH:/action :Add /action to the PATH. /action should be the last directory the shell looks into when looking for a program
 Task 3: echo $((`echo $PATH |grep -o ":/" |wc -l` +1)):Add /action to the PATH. /action should be the last directory the shell looks into when looking for a program.
 Task 4:printenv:Create a script that lists environment variables.
-Task 5:
+Task 5:set; Create a script that lists all local variables and environment variables, and functions.
 Task 6:
