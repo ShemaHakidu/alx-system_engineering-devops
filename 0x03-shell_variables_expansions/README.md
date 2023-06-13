@@ -30,6 +30,6 @@ One combination per line
 The output should be alpha ordered, starting with aa
 Do not print oo
 Your script file should contain maximum 64 characters
-Task 13:
+Task 13: printf "%.2f" $NUM |sort
 Task 14:
 Task 15:
