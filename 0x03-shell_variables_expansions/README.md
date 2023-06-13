@@ -10,7 +10,7 @@ Task 6:BEST="School": Create a script that creates a new local variable.
 
 Name: BEST
 Value: School
-Task 7:
+Task 7:export BEST="School"
 Task 8:
 Task 9:
 Task 10:
