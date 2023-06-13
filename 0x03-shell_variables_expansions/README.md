@@ -15,4 +15,7 @@ Task 8:ECHO $((128 + $TRUEKNOWLEDGE)): Write a script that prints the result of 
 Task 9: echo $(($POWER / $DIVID)): Write a script that prints the result of POWER divided by DIVIDE, followed by a new line.
 
 POWER and DIVIDE are environment variables
-Task 10:
+Task 10: echo $(($BREATH ** $LOVE)):Write a script that displays the result of BREATH to the power LOVE
+
+BREATH and LOVE are environment variables
+The script should display the result, followed by a new line
